@@ -23,7 +23,6 @@ I am actively seeking entry-level cybersecurity opportunities in Security Analys
 ## Certifications
 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge)
-![Cisco](https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-blue?style=for-the-badge&logo=cisco)
 
 ---
 
@@ -77,64 +76,7 @@ I am actively seeking entry-level cybersecurity opportunities in Security Analys
 
 ---
 
-## Featured Projects
 
-### Security Analytics & Threat Detection
-
-SOC-style security analytics project focused on log analysis, SIEM concepts, Python, Kibana, NetFlow, endpoint logs, Windows event logs, anomaly detection, and machine learning.
-
-- Analyzed domain frequency, access logs, DNS logs, SSL logs, endpoint logs, Windows event logs, and NetFlow data to identify suspicious activity and indicators of compromise
-- Investigated abnormal outbound connections, high-volume data transfers, unusual network sessions, failed TLS activity, and protocol mismatches
-- Applied event correlation, anomaly detection, and endpoint log analysis to support threat detection and incident investigation
-- Built machine learning models using scikit-learn to classify suspicious and malicious activity
-- Documented findings in a structured security investigation report
-
-[View Project](https://github.com/pshirolk3012/security-analytics-threat-detection)
-
----
-
-### Secure Network Infrastructure Deployment
-
-Security engineering project focused on securing network communications using DNSSEC, TLS, LDAPS, PKI, and Linux-based services.
-
-- Implemented DNSSEC for forward and reverse DNS zones
-- Configured PKI-based TLS certificates for HTTPS and LDAPS communication
-- Deployed secure web and LDAP services with encrypted authentication
-- Validated secure communication using DNSSEC checks, LDAP over TLS testing, and browser-based HTTPS certificate verification
-
----
-
-### Two-Factor Authentication System
-
-Application security project focused on secure authentication, vulnerability assessment, and monitoring.
-
-- Built an OTP-based authentication system using Flask Security
-- Implemented password hashing and ORM-based database access
-- Conducted vulnerability assessment using Bandit, Postman, and Nessus
-- Integrated Splunk monitoring to detect unauthorized authentication attempts
-
----
-
-### Insider Threat Forensic Investigation
-
-DFIR project simulating an insider threat involving USB-delivered malware, reverse shell access, and data exfiltration.
-
-- Performed forensic acquisition and hash verification using FTK Imager
-- Analyzed disk, registry, and USB artifacts using Autopsy and Registry Explorer
-- Correlated attacker activity across systems to support incident response and evidence documentation
-
----
-
-### Identity, Access Control & SSO Security
-
-IAM-focused project covering access control models and Kerberos-based authentication.
-
-- Analyzed DAC, MAC, RBAC, and ABAC access control models
-- Compared role-based and attribute-based access control approaches for protecting sensitive data
-- Explored Kerberos-based SSO concepts for secure authentication across services
-- Documented identity, access control, and authentication workflows
-
----
 
 ## Connect With Me
 
