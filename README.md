@@ -2,209 +2,146 @@
 
 ### Cybersecurity Graduate | Security Analytics | Cloud Security | IAM | DFIR | AppSec
 
-<p>
-  <img src="https://img.shields.io/badge/Cybersecurity-Graduate-blue" />
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-red" />
-  <img src="https://img.shields.io/badge/Focus-Security%20Analytics-green" />
-  <img src="https://img.shields.io/badge/Open%20To-Entry%20Level%20Cybersecurity%20Roles-purple" />
-</p>
-
-I am a Cybersecurity graduate from the University of North Carolina at Charlotte with hands-on experience across security operations, security analytics, cloud and identity security, digital forensics, application security, and network security.
-
-My work includes projects involving log analysis, SIEM-style monitoring, threat detection, Identity & Access Management, PKI/TLS, secure authentication, infrastructure security, and forensic investigation.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Poorva%20Shirolkar-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/poorvashirolkar)
+[![GitHub](https://img.shields.io/badge/GitHub-pshirolk3012-black?style=flat-square&logo=github)](https://github.com/pshirolk3012)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat-square)]()
 
 ---
 
-## Areas of Interest
+## About Me
 
-| Security Operations | Cloud & IAM | AppSec | DFIR | Network Security |
-|---|---|---|---|---|
-| SIEM Monitoring | AWS IAM | OWASP Top 10 | FTK Imager | TCP/IP |
-| Log Analysis | RBAC | Secure Authentication | Autopsy | DNS |
-| Threat Detection | Kerberos | Vulnerability Assessment | Registry Explorer | HTTPS |
-| Incident Investigation | LDAP/LDAPS | TLS | Evidence Documentation | Firewall Concepts |
+I am a cybersecurity graduate from the University of North Carolina at Charlotte with hands-on experience across security operations, security analytics, cloud and identity security, digital forensics, application security, and network security.
+
+My background combines academic cybersecurity projects, security research experience, and enterprise internship experience focused on security monitoring, log analysis, IAM, PKI/TLS, secure authentication, data protection, and incident investigation.
+
+I am currently building and improving my cybersecurity portfolio with hands-on projects in SOC-style threat detection, cloud security, IAM, application security, and DFIR.
+
+I am actively seeking entry-level cybersecurity opportunities in Security Analysis, SOC Analysis, Security Engineering, Cloud Security, IAM, Cybersecurity Infrastructure, and DFIR.
 
 ---
 
-## Technical Skills
+## Certifications
 
-| Category | Skills |
-|---|---|
-| Security Operations & Analytics | SIEM, Splunk, Log Analysis, Security Monitoring, Alert Triage, Event Correlation, Threat Detection, Anomaly Detection, Incident Investigation |
-| Cloud & Identity Security | AWS IAM, Identity & Access Management, RBAC, Kerberos, LDAP/LDAPS, Access Control, Cloud Security Fundamentals |
-| PKI & Secure Communications | TLS/SSL, PKI, DNSSEC, HTTPS, LDAPS, Secure Authentication, Encryption Concepts |
-| Application Security | OWASP Top 10, Secure Authentication, Password Hashing, Vulnerability Assessment, Bandit, Postman, Nessus |
-| DFIR & Security Tools | FTK Imager, Autopsy, Registry Explorer, Wireshark, Kibana, Nessus |
-| Programming, Data & Automation | Python, SQL, pandas, NumPy, scikit-learn, PowerShell, Ansible, YAML |
-| Systems & Networking | Linux, Windows, TCP/IP, DNS, HTTP/S, VPN Concepts, Firewall Concepts, IDS/IPS Concepts |
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-blue?style=for-the-badge&logo=cisco)
+
+---
+
+## Tech Stack & Tools
+
+### Security Operations & Analytics
+
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-black?style=for-the-badge&logo=splunk)
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-Security%20Monitoring-blue?style=for-the-badge)
+![Threat Detection](https://img.shields.io/badge/Threat%20Detection-Event%20Correlation-red?style=for-the-badge)
+![Kibana](https://img.shields.io/badge/Kibana-Analytics-yellow?style=for-the-badge&logo=kibana)
+
+### Identity, Cloud & Secure Communications
+
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-Cloud%20Security-orange?style=for-the-badge&logo=amazonaws)
+![IAM](https://img.shields.io/badge/IAM-Access%20Control-purple?style=for-the-badge)
+![Kerberos](https://img.shields.io/badge/Kerberos-SSO-lightgrey?style=for-the-badge)
+![LDAP](https://img.shields.io/badge/LDAP%2FLDAPS-Directory%20Security-blueviolet?style=for-the-badge)
+![TLS](https://img.shields.io/badge/TLS%2FSSL-Secure%20Communication-green?style=for-the-badge)
+![PKI](https://img.shields.io/badge/PKI-Certificates-darkgreen?style=for-the-badge)
+
+### Application Security & Vulnerability Assessment
+
+![OWASP](https://img.shields.io/badge/OWASP-Top%2010-black?style=for-the-badge&logo=owasp)
+![Bandit](https://img.shields.io/badge/Bandit-Python%20Security-lightgrey?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?style=for-the-badge&logo=postman)
+![Nessus](https://img.shields.io/badge/Nessus-Vulnerability%20Scanning-blue?style=for-the-badge)
+
+### DFIR & Security Tools
+
+![FTK Imager](https://img.shields.io/badge/FTK%20Imager-Forensics-darkblue?style=for-the-badge)
+![Autopsy](https://img.shields.io/badge/Autopsy-Digital%20Forensics-brown?style=for-the-badge)
+![Registry Explorer](https://img.shields.io/badge/Registry%20Explorer-Windows%20Artifacts-grey?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=for-the-badge&logo=wireshark)
+
+### Programming, Data & Automation
+
+![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-lightblue?style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-blue?style=for-the-badge&logo=powershell)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-red?style=for-the-badge&logo=ansible)
+![YAML](https://img.shields.io/badge/YAML-Configuration-grey?style=for-the-badge)
+
+### Systems & Networking
+
+![Linux](https://img.shields.io/badge/Linux-Operating%20System-black?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-Operating%20System-blue?style=for-the-badge&logo=windows)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-green?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-Network%20Security-teal?style=for-the-badge)
+![HTTP/S](https://img.shields.io/badge/HTTP%2FS-Web%20Protocols-lightgrey?style=for-the-badge)
 
 ---
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ### Security Analytics & Threat Detection
 
-SOC-style investigation using Python, SIEM concepts, Kibana, NetFlow, DNS logs, SSL logs, endpoint logs, Windows event logs, anomaly detection, and machine learning.
+SOC-style security analytics project focused on log analysis, SIEM concepts, Python, Kibana, NetFlow, endpoint logs, Windows event logs, anomaly detection, and machine learning.
 
-**Focus Areas:**  
-Log Analysis, Threat Detection, Event Correlation, NetFlow, Python, Kibana
+- Analyzed domain frequency, access logs, DNS logs, SSL logs, endpoint logs, Windows event logs, and NetFlow data to identify suspicious activity and indicators of compromise
+- Investigated abnormal outbound connections, high-volume data transfers, unusual network sessions, failed TLS activity, and protocol mismatches
+- Applied event correlation, anomaly detection, and endpoint log analysis to support threat detection and incident investigation
+- Built machine learning models using scikit-learn to classify suspicious and malicious activity
+- Documented findings in a structured security investigation report
 
 [View Project](https://github.com/pshirolk3012/security-analytics-threat-detection)
 
-</td>
-<td width="50%">
+---
 
 ### Secure Network Infrastructure Deployment
 
 Security engineering project focused on securing network communications using DNSSEC, TLS, LDAPS, PKI, and Linux-based services.
 
-**Focus Areas:**  
-PKI, TLS, DNSSEC, LDAPS, Linux, Secure Communications
+- Implemented DNSSEC for forward and reverse DNS zones
+- Configured PKI-based TLS certificates for HTTPS and LDAPS communication
+- Deployed secure web and LDAP services with encrypted authentication
+- Validated secure communication using DNSSEC checks, LDAP over TLS testing, and browser-based HTTPS certificate verification
 
-[View Project](https://github.com/pshirolk3012)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+---
 
 ### Two-Factor Authentication System
 
 Application security project focused on secure authentication, vulnerability assessment, and monitoring.
 
-**Focus Areas:**  
-MFA, Flask, SQLAlchemy, Splunk, TLS, OWASP Top 10
+- Built an OTP-based authentication system using Flask Security
+- Implemented password hashing and ORM-based database access
+- Conducted vulnerability assessment using Bandit, Postman, and Nessus
+- Integrated Splunk monitoring to detect unauthorized authentication attempts
 
-[View Project](https://github.com/pshirolk3012)
-
-</td>
-<td width="50%">
+---
 
 ### Insider Threat Forensic Investigation
 
-DFIR project simulating insider threat activity involving USB-delivered malware, reverse shell access, and data exfiltration.
+DFIR project simulating an insider threat involving USB-delivered malware, reverse shell access, and data exfiltration.
 
-**Focus Areas:**  
-DFIR, Malware Analysis, FTK Imager, Autopsy, Registry Explorer
-
-[View Project](https://github.com/pshirolk3012)
-
-</td>
-</tr>
-</table>
+- Performed forensic acquisition and hash verification using FTK Imager
+- Analyzed disk, registry, and USB artifacts using Autopsy and Registry Explorer
+- Correlated attacker activity across systems to support incident response and evidence documentation
 
 ---
 
-## Project Details
+### Identity, Access Control & SSO Security
 
-<details>
-<summary><b>Security Analytics & Threat Detection</b></summary>
+IAM-focused project covering access control models and Kerberos-based authentication.
 
-<br>
-
-This project focuses on SOC-style security analytics using log analysis, SIEM concepts, Python, Kibana, NetFlow analysis, endpoint logs, DNS logs, SSL logs, Windows event logs, and anomaly detection techniques.
-
-**Key Highlights:**
-
-- Analyzed multiple security data sources to identify suspicious activity and indicators of compromise.
-- Investigated abnormal outbound connections, high-volume data transfers, unusual network sessions, failed TLS activity, and protocol mismatches.
-- Applied event correlation, anomaly detection, and endpoint log analysis to support threat detection and incident investigation.
-- Built machine learning models using scikit-learn to classify suspicious and malicious activity.
-- Documented findings in a structured security investigation report.
-
-</details>
-
-<details>
-<summary><b>Secure Network Infrastructure Deployment</b></summary>
-
-<br>
-
-This project focused on securing network communication in a Linux-based environment using DNSSEC, TLS, LDAPS, and PKI.
-
-**Key Highlights:**
-
-- Implemented DNSSEC for forward and reverse DNS zones.
-- Configured PKI-based TLS certificates for HTTPS and LDAPS communication.
-- Deployed secure web and LDAP services with encrypted authentication.
-- Validated secure communication using DNSSEC checks, LDAP over TLS testing, and browser-based HTTPS certificate verification.
-
-</details>
-
-<details>
-<summary><b>Two-Factor Authentication System</b></summary>
-
-<br>
-
-This project focused on building a secure authentication system with monitoring and vulnerability assessment.
-
-**Key Highlights:**
-
-- Built an OTP-based authentication system using Flask Security.
-- Implemented password hashing and ORM-based database access.
-- Conducted vulnerability assessment using Bandit, Postman, and Nessus.
-- Integrated Splunk monitoring to detect unauthorized authentication attempts.
-
-</details>
-
-<details>
-<summary><b>Insider Threat Forensic Investigation</b></summary>
-
-<br>
-
-This DFIR project simulated an insider threat involving USB-delivered malware, reverse shell access, and data exfiltration.
-
-**Key Highlights:**
-
-- Performed forensic acquisition and hash verification using FTK Imager.
-- Analyzed disk, registry, and USB artifacts using Autopsy and Registry Explorer.
-- Correlated attacker activity across systems to support incident response and evidence documentation.
-
-</details>
-
----
-
-## Certification
-
-| Certification | Status |
-|---|---|
-| CompTIA Security+ | Completed |
-
----
-
-## Education
-
-| Degree | University | GPA |
-|---|---|---|
-| M.S. Cybersecurity | University of North Carolina at Charlotte | 4.0 / 4.0 |
-| B.Tech. Electronics and Communication Engineering | MIT World Peace University | 3.12 / 4.0 |
-
----
-
-## GitHub Activity
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pshirolk3012&show_icons=true&theme=default" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pshirolk3012&layout=compact&theme=default" />
-</p>
+- Analyzed DAC, MAC, RBAC, and ABAC access control models
+- Compared role-based and attribute-based access control approaches for protecting sensitive data
+- Explored Kerberos-based SSO concepts for secure authentication across services
+- Documented identity, access control, and authentication workflows
 
 ---
 
 ## Connect With Me
 
-| Platform | Link |
-|---|---|
-| LinkedIn | https://linkedin.com/in/poorvashirolkar |
-| GitHub | https://github.com/pshirolk3012 |
-| Email | pshirolk@charlotte.edu |
+- LinkedIn: https://linkedin.com/in/poorvashirolkar
+- GitHub: https://github.com/pshirolk3012
+- Email: pshirolk@charlotte.edu
 
 ---
 
-Thanks for visiting my GitHub profile. I am currently documenting hands-on cybersecurity projects across security analytics, cloud security, IAM, PKI, application security, and digital forensics.
+Thanks for visiting my profile. I am building hands-on cybersecurity projects and documenting my journey across security analytics, cloud security, IAM, PKI, application security, and digital forensics.
