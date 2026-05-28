@@ -3,7 +3,6 @@
 ### Cybersecurity Graduate | Security Analytics | Cloud Security | IAM | DFIR | AppSec
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Poorva%20Shirolkar-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/poorvashirolkar)
-[![GitHub](https://img.shields.io/badge/GitHub-pshirolk3012-black?style=flat-square&logo=github)](https://github.com/pshirolk3012)
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat-square)]()
 
 ---
