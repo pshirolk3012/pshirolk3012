@@ -2,8 +2,7 @@
 
 ### Cybersecurity Graduate | Security Analytics | Cloud Security | IAM | DFIR | AppSec
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Poorva%20Shirolkar-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/poorvashirolkar)
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat-square)]()
+
 
 ---
 
@@ -80,7 +79,6 @@ I am actively seeking entry-level cybersecurity opportunities in Security Analys
 ## Connect With Me
 
 - LinkedIn: https://linkedin.com/in/poorvashirolkar
-- GitHub: https://github.com/pshirolk3012
 - Email: pshirolk@charlotte.edu
 
 ---
