@@ -1,86 +1,72 @@
-# Hi, I'm Poorva Shirolkar👋
+# Poorva Shirolkar
 
-### Cybersecurity Graduate | Security Analytics | Cloud Security | IAM | DFIR | AppSec
+**Security Analytics and Threat Detection | Cloud and Identity Security | DFIR | Application Security**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Poorva%20Shirolkar-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/poorvashirolkar)
+M.S. Cybersecurity, UNC Charlotte. CompTIA Security+. Based in Charlotte, NC and open to relocation.
 
 ---
 
-## About Me
+## About
 
-I am a cybersecurity graduate from the University of North Carolina at Charlotte with hands-on experience across security operations, security analytics, cloud and identity security, digital forensics, application security, and network security.
+I work on detection and investigation problems: pulling signal out of log data, reconstructing what an attacker or insider actually did, and documenting it so someone else can act on it.
 
-My background combines academic cybersecurity projects, security research experience, and enterprise internship experience focused on security monitoring, log analysis, IAM, PKI/TLS, secure authentication, data protection, and incident investigation.
+That comes from three places. Graduate coursework and labs at UNC Charlotte across security analytics, digital forensics, application security, and network security. Security research at CESAR Lab on smart grid cyber-physical infrastructure, in collaboration with EPRI. And a cybersecurity internship at SLB doing access reviews, log analysis, and incident support alongside a security operations team.
 
-I am currently building and improving my cybersecurity portfolio with hands-on projects in SOC-style threat detection, cloud security, IAM, application security, and DFIR.
+I am currently open to entry level roles in security analysis, SOC analysis, cloud security, IAM, and DFIR.
 
-I am actively seeking entry-level cybersecurity opportunities in Security Analysis, SOC Analysis, Security Engineering, Cloud Security, IAM, Cybersecurity Infrastructure, and DFIR.
+---
+
+## Projects
+
+**[Security Analytics and Threat Detection](https://github.com/pshirolk3012/security-analytics-threat-detection)**
+SOC style investigation across NetFlow, DNS, SSL, endpoint, and Windows event logs. Correlated events to surface abnormal outbound connections, failed TLS activity, unusual port usage, and high volume transfers consistent with C2 or exfiltration, then built scikit-learn models to classify suspicious activity.
+`Python` `Kibana` `scikit-learn` `pandas` `SIEM concepts`
+
+**[Malware Analysis and Reverse Engineering](https://github.com/pshirolk3012/malware-analysis-reverse-engineering)**
+Static and dynamic analysis of Windows malware samples in an isolated VM. Inspected PE headers, imports, and embedded resources, diffed the registry to find service persistence, and used a debugger and disassembler to trace XOR routines and resource loading behavior.
+`Ghidra` `OllyDbg` `Regshot` `Process Explorer` `PEiD` `CFF Explorer` `VirusTotal`
+
+**[Insider Threat Forensic Investigation](https://github.com/pshirolk3012/insider-threat-forensic-investigation)**
+End to end DFIR workflow on a simulated insider threat involving USB delivered malware, reverse shell access, and data exfiltration. Acquired and hash verified the image, analyzed USB and registry artifacts for execution and persistence, and reconstructed a correlated activity timeline.
+`FTK Imager` `Autopsy` `Registry Explorer` `Netcat`
+
+**[Sketch to Face GAN](https://github.com/pshirolk3012/sketch-to-face-gan)**
+Generative adversarial network reconstructing facial images from sketches, evaluated at SSIM 0.758 and L2 norm 92.03. Background for reasoning about synthetic media and identity verification risk.
+`TensorFlow` `Keras` `Python`
 
 ---
 
 ## Certifications
 
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge)
+- CompTIA Security+ (CompTIA)
+- Google Cloud Kubernetes Skill Badge (verified on Credly)
+- AWS Solutions Architect Associate, in progress
 
 ---
 
-## Tech Stack & Tools
+## Skills
 
-### Security Operations & Analytics
+**Security operations and analytics**
+Log analysis, event correlation, anomaly detection, threat detection, incident investigation, SIEM concepts, Kibana, NetFlow and DNS and SSL log analysis, Windows event logs
 
-![Splunk](https://img.shields.io/badge/Splunk-SIEM-black?style=for-the-badge&logo=splunk)
-![Log Analysis](https://img.shields.io/badge/Log%20Analysis-Security%20Monitoring-blue?style=for-the-badge)
-![Threat Detection](https://img.shields.io/badge/Threat%20Detection-Event%20Correlation-red?style=for-the-badge)
-![Kibana](https://img.shields.io/badge/Kibana-Analytics-yellow?style=for-the-badge&logo=kibana)
+**Cloud and identity**
+AWS IAM, access control models, least privilege and access reviews, Kerberos, LDAP and LDAPS, PKI, TLS and SSL, secure authentication
 
-### Identity, Cloud & Secure Communications
+**Application security**
+OWASP Top 10, secure code review and remediation in Java and Spring, Burp Suite, OWASP ZAP, Nessus, Postman, Bandit
 
-![AWS IAM](https://img.shields.io/badge/AWS%20IAM-Cloud%20Security-orange?style=for-the-badge&logo=amazonaws)
-![IAM](https://img.shields.io/badge/IAM-Access%20Control-purple?style=for-the-badge)
-![Kerberos](https://img.shields.io/badge/Kerberos-SSO-lightgrey?style=for-the-badge)
-![LDAP](https://img.shields.io/badge/LDAP%2FLDAPS-Directory%20Security-blueviolet?style=for-the-badge)
-![TLS](https://img.shields.io/badge/TLS%2FSSL-Secure%20Communication-green?style=for-the-badge)
-![PKI](https://img.shields.io/badge/PKI-Certificates-darkgreen?style=for-the-badge)
+**Digital forensics and incident response**
+FTK Imager, Autopsy, Registry Explorer, Ghidra, OllyDbg, Regshot, Wireshark, timeline reconstruction, artifact analysis
 
-### Application Security & Vulnerability Assessment
+**Governance and risk**
+NIST RMF, NIST 800-53, FIPS 199 categorization, risk assessment, POA&M development, HIPAA
 
-![OWASP](https://img.shields.io/badge/OWASP-Top%2010-black?style=for-the-badge&logo=owasp)
-![Bandit](https://img.shields.io/badge/Bandit-Python%20Security-lightgrey?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?style=for-the-badge&logo=postman)
-![Nessus](https://img.shields.io/badge/Nessus-Vulnerability%20Scanning-blue?style=for-the-badge)
-
-### DFIR & Security Tools
-
-![FTK Imager](https://img.shields.io/badge/FTK%20Imager-Forensics-darkblue?style=for-the-badge)
-![Autopsy](https://img.shields.io/badge/Autopsy-Digital%20Forensics-brown?style=for-the-badge)
-![Registry Explorer](https://img.shields.io/badge/Registry%20Explorer-Windows%20Artifacts-grey?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=for-the-badge&logo=wireshark)
-
-### Programming, Data & Automation
-
-![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-lightblue?style=for-the-badge)
-![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-blue?style=for-the-badge&logo=powershell)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-red?style=for-the-badge&logo=ansible)
-![YAML](https://img.shields.io/badge/YAML-Configuration-grey?style=for-the-badge)
-
-### Systems & Networking
-
-![Linux](https://img.shields.io/badge/Linux-Operating%20System-black?style=for-the-badge&logo=linux)
-![Windows](https://img.shields.io/badge/Windows-Operating%20System-blue?style=for-the-badge&logo=windows)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-green?style=for-the-badge)
-![DNS](https://img.shields.io/badge/DNS-Network%20Security-teal?style=for-the-badge)
-![HTTP/S](https://img.shields.io/badge/HTTP%2FS-Web%20Protocols-lightgrey?style=for-the-badge)
+**Programming and systems**
+Python, SQL, PowerShell, Bash, YAML, Ansible, Linux, Windows, TCP/IP, DNS, HTTP and HTTPS
 
 ---
 
+## Contact
 
-
-## Connect With Me
-
-- LinkedIn: https://linkedin.com/in/poorvashirolkar
+- LinkedIn: [linkedin.com/in/poorvashirolkar](https://linkedin.com/in/poorvashirolkar)
 - Email: pshirolk@charlotte.edu
-
----
-
-Thanks for visiting my profile. I am building hands-on cybersecurity projects and documenting my journey across security analytics, cloud security, IAM, PKI, application security, and digital forensics.
