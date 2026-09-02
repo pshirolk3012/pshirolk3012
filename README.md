@@ -18,20 +18,28 @@ I am currently open to entry level roles in security analysis, SOC analysis, clo
 
 ## Projects
 
+**[Web Application Penetration Testing and Secure Code Remediation](https://github.com/pshirolk3012/web-app-pentest-remediation)**
+Fifteen vulnerability classes found, exploited, fixed in Java/Spring source, and re-tested against the original payloads.
+`Burp Suite` `OWASP ZAP` `OWASP Java Encoder` `Java` `Spring` `jdbcTemplate`
+
+**[NetFlow Threat Detection](https://github.com/pshirolk3012/netflow-threat-detection)**
+Translated a written exfiltration rule into a Kibana query over ASN-enriched NetFlow logs, narrowing 148 external sessions to four suspicious ones.
+`Elastic` `Kibana` `Python` `ipwhois`
+
 **[Security Analytics and Threat Detection](https://github.com/pshirolk3012/security-analytics-threat-detection)**
-SOC style investigation across NetFlow, DNS, SSL, endpoint, and Windows event logs. Correlated events to surface abnormal outbound connections, failed TLS activity, unusual port usage, and high volume transfers consistent with C2 or exfiltration, then built scikit-learn models to classify suspicious activity.
-`Python` `Kibana` `scikit-learn` `pandas` `SIEM concepts`
+SOC style investigation across DNS, SSL, endpoint, and Windows event logs, with scikit-learn models to classify suspicious activity.
+`Python` `Kibana` `scikit-learn` `pandas`
 
 **[Malware Analysis and Reverse Engineering](https://github.com/pshirolk3012/malware-analysis-reverse-engineering)**
-Static and dynamic analysis of Windows malware samples in an isolated VM. Inspected PE headers, imports, and embedded resources, diffed the registry to find service persistence, and used a debugger and disassembler to trace XOR routines and resource loading behavior.
-`Ghidra` `OllyDbg` `Regshot` `Process Explorer` `PEiD` `CFF Explorer` `VirusTotal`
+Static and dynamic analysis of Windows samples: PE inspection, registry diffing for persistence, and debugging XOR and resource loading routines.
+`Ghidra` `OllyDbg` `Regshot` `Process Explorer` `PEiD` `VirusTotal`
 
 **[Insider Threat Forensic Investigation](https://github.com/pshirolk3012/insider-threat-forensic-investigation)**
-End to end DFIR workflow on a simulated insider threat involving USB delivered malware, reverse shell access, and data exfiltration. Acquired and hash verified the image, analyzed USB and registry artifacts for execution and persistence, and reconstructed a correlated activity timeline.
+End to end DFIR on a simulated USB malware and exfiltration case, from hash verified acquisition to a correlated activity timeline.
 `FTK Imager` `Autopsy` `Registry Explorer` `Netcat`
 
 **[Sketch to Face GAN](https://github.com/pshirolk3012/sketch-to-face-gan)**
-Generative adversarial network reconstructing facial images from sketches, evaluated at SSIM 0.758 and L2 norm 92.03. Background for reasoning about synthetic media and identity verification risk.
+Facial image reconstruction from sketches at SSIM 0.758 and L2 norm 92.03, background for synthetic media and identity verification risk.
 `TensorFlow` `Keras` `Python`
 
 ---
@@ -47,7 +55,7 @@ Generative adversarial network reconstructing facial images from sketches, evalu
 ## Skills
 
 **Security operations and analytics**
-Log analysis, event correlation, anomaly detection, threat detection, incident investigation, SIEM concepts, Kibana, NetFlow and DNS and SSL log analysis, Windows event logs
+Log analysis, event correlation, anomaly detection, threat detection, incident investigation, SIEM concepts, Elastic and Kibana, NetFlow and DNS and SSL log analysis, Windows event logs
 
 **Cloud and identity**
 AWS IAM, access control models, least privilege and access reviews, Kerberos, LDAP and LDAPS, PKI, TLS and SSL, secure authentication
