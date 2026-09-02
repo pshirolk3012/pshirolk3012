@@ -10,7 +10,7 @@ M.S. Cybersecurity, UNC Charlotte. CompTIA Security+. Based in Charlotte, NC and
 
 I work on detection and investigation problems: pulling signal out of log data, reconstructing what an attacker or insider actually did, and documenting it so someone else can act on it.
 
-That comes from three places. Graduate coursework and labs at UNC Charlotte across security analytics, digital forensics, application security, and network security. Security research at CESAR Lab on smart grid cyber-physical infrastructure, in collaboration with EPRI. And a cybersecurity internship at SLB doing access reviews, log analysis, and incident support alongside a security operations team.
+That comes from three places. Hands-on lab and project work at UNC Charlotte across security analytics, digital forensics, application security, and network security. Security research at CESAR Lab on smart grid cyber-physical infrastructure, in collaboration with EPRI. And a cybersecurity internship at SLB doing access reviews, log analysis, and incident support alongside a security operations team.
 
 I am currently open to entry level roles in security analysis, SOC analysis, cloud security, IAM, and DFIR.
 
@@ -19,7 +19,7 @@ I am currently open to entry level roles in security analysis, SOC analysis, clo
 ## Projects
 
 **[Web Application Penetration Testing and Secure Code Remediation](https://github.com/pshirolk3012/web-app-pentest-remediation)**
-Fifteen vulnerability classes found, exploited, fixed in Java/Spring source, and re-tested against the original payloads.
+Fifteen findings across twelve vulnerability classes, each exploited, fixed in Java/Spring source, and re-tested against the original payload.
 `Burp Suite` `OWASP ZAP` `OWASP Java Encoder` `Java` `Spring` `jdbcTemplate`
 
 **[NetFlow Threat Detection](https://github.com/pshirolk3012/netflow-threat-detection)**
