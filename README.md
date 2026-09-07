@@ -47,7 +47,7 @@ That comes from three places. **Hands-on lab and project work at UNC Charlotte**
 
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&labelColor=1F2937)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Kubernetes%20Skill%20Badge-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1F2937)](#)
-[![AWS SAA](https://img.shields.io/badge/AWS%20SAA-In%20Progress-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=1F2937)](#)
+
 
 ---
 
