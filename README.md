@@ -46,7 +46,7 @@ That comes from three places. **Hands-on lab and project work at UNC Charlotte**
 ## 🏅 Certifications
 
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&labelColor=1F2937)](https://www.credly.com/badges/e52e7a63-ef51-4b88-9d39-c1c06ccfd9c3/public_url)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Kubernetes%20Skill%20Badge-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1F2937)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Kubernetes%20Skill%20Badge-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1F2937)](https://www.credly.com/badges/cb90c8ae-3888-4b6c-b754-2b7afb2aa8a5/public_url)
 
 
 ---
